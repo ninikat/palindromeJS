@@ -1,0 +1,17 @@
+body {
+    background-color: #172C63;
+    font-family: "Anton";
+}
+
+.header_text {
+    background-color: #E0A348;
+}
+
+.result {
+    font-size: 24px;
+    background-color: #EBE5DB;
+}
+
+#userWord {
+    background-color: #EBE5DB;
+}
